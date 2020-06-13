@@ -71,7 +71,7 @@ node_modules/
 _memo/
 .vscode/
 dist/
-./src/lib/tkool-mv-comment-plugin.js
+tkool-mv-comment-plugin.js
 src/assets/images/games/actor/
 src/assets/images/games/system/
 src/json/spritesheets/system
